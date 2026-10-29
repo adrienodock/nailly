@@ -1,6 +1,6 @@
 # Le domaine de Nailly
 
-Promenade en 3D dans les extérieurs du domaine de Nailly (Mézilles, Yonne), restitué dans son état d’avant les travaux engagés après 2012.
+Promenade en 3D dans les extérieurs du domaine de Nailly (Mézilles, Yonne), restitué avant les travaux engagés après 2012 (« Avant Mamily ») et aujourd’hui (« Après Mamily »), au fil des quatre saisons.
 
 **Ouvrir : https://adrienodock.github.io/nailly/** — ajouter `#cour`, `#manoir`, `#passage`, `#grille`, `#gravier`, `#grange`, `#jardin-ouest` ou `#jardin-nord` pour arriver directement à un point de vue.
 
